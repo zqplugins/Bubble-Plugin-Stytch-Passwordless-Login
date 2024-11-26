@@ -1,0 +1,17 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "social network",
+        "2": "productivity",
+        "3": "internationalization",
+        "4": "containers"
+    },
+    "data_tracked": false,
+    "demo_page": "https://zeroqode-demo-42.bubbleapps.io/version-test/stytch-login",
+    "description": "The plugin revolutionizes the way you access your accounts by offering seamless entry through various platforms. With just a few clicks, you can log in using your GitHub, Twitter, Discord, or phone number, bypassing the need for traditional passwords. This innovative plugin streamlines your login process, ensuring a secure and user-friendly experience every time.\n\n👛 Please support our efforts to keep this plugin free—your donations help us invest the time and resources needed to continue maintaining and improving it for everyone's benefit:  [color=#1AAFD0][url=https://zeroqo.de/support]https://zeroqo.de/support[/color][/url].\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/stytch-passwordless-login-plugin-for-bubble-1706026532088x243476116129865760\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1706026236472x243803032327056800/DALL%C2%B7E%202024-01-23%2018.10.23%20-%20A%20modern%2C%20minimalistic%203D%20icon%20based%20on%20a%202D%20concept%20of%20an%20unlocked%20padlock%20with%20a%20person%27s%20silhouette%20within%20it.%20The%20icon%20should%20have%20a%20stylized%203D%20p.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Stytch Passwordless Login",
+    "plugin_instructions": "Add the Stytch SDK element to your page, select the platforms you need, and utilize its events and actions."
+}

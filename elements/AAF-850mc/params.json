@@ -1,0 +1,100 @@
+{
+    "add_is_visible": true,
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 400,
+        "width": 400
+    },
+    "display": "Stytch SDK",
+    "events": {
+        "AAV": {
+            "caption": "Logged in",
+            "name": "logged_in"
+        }
+    },
+    "fields": {
+        "AAm": {
+            "caption": "Redirect URL",
+            "editor": "StaticText",
+            "name": "redirect_url",
+            "rank": 0
+        },
+        "AAn": {
+            "caption": "OAuth",
+            "editor": "Label",
+            "name": "oauth",
+            "rank": 1
+        },
+        "AAo": {
+            "caption": "Facebook",
+            "default_val": false,
+            "editor": "Checkbox",
+            "name": "facebook",
+            "rank": 2
+        },
+        "AAp": {
+            "caption": "Twitter",
+            "default_val": false,
+            "editor": "Checkbox",
+            "name": "twitter",
+            "rank": 3
+        },
+        "AAr": {
+            "caption": "GitHub",
+            "default_val": false,
+            "editor": "Checkbox",
+            "name": "github",
+            "rank": 4
+        },
+        "AAs": {
+            "caption": "Discord",
+            "default_val": false,
+            "editor": "Checkbox",
+            "name": "discord",
+            "rank": 5
+        },
+        "AAt": {
+            "caption": "One time password",
+            "editor": "Label",
+            "name": "one_time_password",
+            "rank": 6
+        },
+        "AAu": {
+            "caption": "SMS",
+            "default_val": false,
+            "editor": "Checkbox",
+            "name": "sms",
+            "rank": 7
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "BoxShadow": true,
+        "Font": true,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    },
+    "states": {
+        "AAW": {
+            "caption": "Logged in ",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "logged_in",
+            "value": "boolean"
+        },
+        "AAY": {
+            "caption": "Error ",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "error",
+            "value": "text"
+        }
+    }
+}

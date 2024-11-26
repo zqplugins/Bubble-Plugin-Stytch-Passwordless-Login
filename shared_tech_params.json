@@ -1,0 +1,20 @@
+{
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": false
+    },
+    "shared_keys": {
+        "AAK": {
+            "caption": "Secret",
+            "type": "secure"
+        },
+        "AAL": {
+            "caption": "Project ID",
+            "type": "secure"
+        },
+        "AAN": {
+            "caption": "Public",
+            "type": "client_safe"
+        }
+    }
+}

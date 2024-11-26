@@ -1,0 +1,5 @@
+{
+    "category": "plugins",
+    "display": "Authenticate",
+    "type": "client_side"
+}
